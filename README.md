@@ -3,16 +3,16 @@
 ### Calificación/Grade: 10/10
 
 
-### Preview
+## Preview
 ![N Queens Preview](http://i.imgur.com/525ze6a.jpg?1 "N Queens Problem")
 
-### Used design patterns
+## Used design patterns
 - Model-View-Controller (program architecture)
 - State (logical interface)
 - Strategy (problem restriction management)
 
-### Developer
+## Developer
 
-#### Adrián Rodríguez Bazaga
+### Adrián Rodríguez Bazaga
   - Email: arodriba@ull.edu.es
   - [Page](http://adrianbzg.github.io)
