@@ -1,5 +1,6 @@
 # N Queens Problem
-## Description: This program solves the N Queens problem, for more info see: [http://www.math.utah.edu/~alfeld/queens/queens.html](http://www.math.utah.edu/~alfeld/queens/queens.html)
+### Description: This program solves the N Queens problem, for more info see: [http://www.math.utah.edu/~alfeld/queens/queens.html](http://www.math.utah.edu/~alfeld/queens/queens.html)
+### Calificación/Grade: 10/10
 
 
 ### Preview
