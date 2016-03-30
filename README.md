@@ -15,4 +15,5 @@
 
 ### Adrián Rodríguez Bazaga
   - Email: arodriba@ull.edu.es
-  - [Page](http://adrianbzg.github.io)
+  - [My GitHub.io Page](http://adrianbzg.github.io)
+  - [My LinkedIn Profile](https://es.linkedin.com/in/adrirodbaz)
