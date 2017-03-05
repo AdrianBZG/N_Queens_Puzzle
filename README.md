@@ -15,5 +15,5 @@
 
 ### Adrián Rodríguez Bazaga
   - Email: adrian@qmindgroup.com
-  - [My GitHub.io Page](http://www.adrianbazaga.com/)
+  - [My Page](http://www.adrianbazaga.com/)
   - [My LinkedIn Profile](https://es.linkedin.com/in/adrirodbaz)
