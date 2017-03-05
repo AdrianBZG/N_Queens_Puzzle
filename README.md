@@ -14,6 +14,6 @@
 ## Developer
 
 ### Adrián Rodríguez Bazaga
-  - Email: arodriba@ull.edu.es
-  - [My GitHub.io Page](http://adrianbzg.github.io)
+  - Email: adrian@qmindgroup.com
+  - [My GitHub.io Page](http://www.adrianbazaga.com/)
   - [My LinkedIn Profile](https://es.linkedin.com/in/adrirodbaz)
